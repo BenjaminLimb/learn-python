@@ -1,2 +1,2 @@
 # learn-python
-My Adventures learning python
+My Adventures Learning Python
